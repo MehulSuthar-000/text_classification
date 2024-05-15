@@ -1,7 +1,7 @@
 # text_classification
 
 ## In my journey of learning NLP this is the first NLP task I have stumbled upon
-** Text Classification **
+<b> Text Classification </b>
 * Text Classification is a common task in NLP 
 - The goal is to assign the text/document a label (positive/negative)
 
